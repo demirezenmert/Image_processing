@@ -30,7 +30,7 @@ if __name__ == "__main__":
                 Welcome Face And Eyes detection on picture program
                 Choose Picture: Ensure picture in the same 
                 directory with 'faceDetection.py'
-                or enter with picture via path
+                or enter  picture via path
     
     ''')
     print('***'*10)
